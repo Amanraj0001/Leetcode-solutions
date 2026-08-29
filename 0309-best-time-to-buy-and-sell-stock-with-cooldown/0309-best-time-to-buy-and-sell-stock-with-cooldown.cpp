@@ -1,22 +1,21 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-
-        int hold = -prices[0];
-        int sold = 0;
-        int rest = 0;
-
-        for (int i = 1; i < prices.size(); i++) {
-
-            int oldHold = hold;
-            int oldSold = sold;
-            int oldRest = rest;
-
-            hold = max(oldHold, oldRest - prices[i]);
-            sold = oldHold + prices[i];
-            rest = max(oldRest, oldSold);
+    int solve(vector<int>&prices,vector<vector<int>> &dp,int i,int buy){
+        int n=prices.size();
+        if(i>=n)return 0;
+        if(dp[i][buy]!=-1)return dp[i][buy];
+        if(buy){
+            int take= -prices[i]+solve(prices,dp,i+1,0);
+            int ntake= solve(prices,dp,i+1,1);
+            return dp[i][buy]=max(take,ntake);
+        }else{
+             int sell=prices[i]+solve(prices,dp,i+2,1);
+            int nsell= solve(prices,dp,i+1,0);
+            return dp[i][buy]=max(sell,nsell);
         }
-
-        return max(sold, rest);
+    }
+    int maxProfit(vector<int>& prices) {
+        vector<vector<int>>dp(prices.size()+1,vector<int>(2,-1));
+        return solve(prices,dp,0,1);
     }
 };
