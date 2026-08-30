@@ -10,6 +10,7 @@ Store solutions in Github
 | [0322-coin-change](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@ Store solutions in Github
 | [0322-coin-change](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -44,4 +46,20 @@ Store solutions in Github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
