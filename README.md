@@ -6,6 +6,7 @@ Store solutions in Github
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0376-wiggle-subsequence/) | Medium |
@@ -17,6 +18,7 @@ Store solutions in Github
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0376-wiggle-subsequence/) | Medium |
@@ -78,4 +80,8 @@ Store solutions in Github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0376-wiggle-subsequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0174-dungeon-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 <!---LeetCode Topics End-->
