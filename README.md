@@ -8,6 +8,7 @@ Store solutions in Github
 | ------- | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0494-target-sum](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -18,6 +19,7 @@ Store solutions in Github
 | ------- | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0494-target-sum](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -72,4 +74,8 @@ Store solutions in Github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 <!---LeetCode Topics End-->
