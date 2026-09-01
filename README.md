@@ -29,6 +29,7 @@ Store solutions in Github
 | [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1220-count-vowels-permutation](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1220-count-vowels-permutation/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
