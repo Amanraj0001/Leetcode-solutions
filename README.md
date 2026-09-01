@@ -16,6 +16,7 @@ Store solutions in Github
 | [0877-stone-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1388-pizza-with-3n-slices](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Store solutions in Github
 | [1049-last-stone-weight-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1220-count-vowels-permutation](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1220-count-vowels-permutation/) | Hard |
+| [1388-pizza-with-3n-slices](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,8 +86,13 @@ Store solutions in Github
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1388-pizza-with-3n-slices](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0174-dungeon-game](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1388-pizza-with-3n-slices](https://github.com/Amanraj0001/Leetcode-solutions/tree/main/1388-pizza-with-3n-slices/) | Hard |
 <!---LeetCode Topics End-->
